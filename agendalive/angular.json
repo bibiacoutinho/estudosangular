@@ -122,5 +122,8 @@
       }
     }
   },
-  "defaultProject": "agendalive"
+  "defaultProject": "agendalive",
+  "cli": {
+    "analytics": false
+  }
 }
